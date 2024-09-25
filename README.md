@@ -12,14 +12,24 @@ In this project I took information about the weather data in the cities of Jerus
 all the information is from OpenWeatherMap.
 
 In the first dashboard, graphs are presented that represent the data regarding the temperature averages between the cities, focusing on different times (years, months and hours). Also, a graph is presented that shows the difference in the average temperatures in 1980 and in 2023, so you can see the increase in the average temperatures in a clearer way.
+![Dashboard 1](https://github.com/user-attachments/assets/ecca3487-ee45-4cea-aa61-0a1a12eecfc3)
+
 
 In the second dashboard, a graph showing the averages between the cities throughout the days of the week is displayed on the left, from this graph you can learn that there is no real difference between the days of the week in terms of averages temperature (and for example there is no difference between the middle of the week and the end of the week in this manner) and in the graph on the right you can see the average temperatures between the cities with A trend line and with a forecast for the coming years based on the data. Also in this graph you can clearly see the average increase in temperatures.
+![Dashboard 2](https://github.com/user-attachments/assets/02e685aa-628b-4185-a0b4-f89b3119736e)
+
 
 In the third dashboard, you can see the humidity differences between the cities in months and hours, and thus learn at what time of the year the humidity is the least in each city, as well as what hours of the day are less humid compared to the rest of the day.
+![Dashboard 3](https://github.com/user-attachments/assets/717bd7ab-97c0-4cd8-b9ac-e844f6939aea)
+
 
 The fourth dashboard shows the relationship between humidity and temperature or rain in each city. Each circle marks a year. You can study the density of the circles attributed to each city in order to understand how the humidity behaves in relation to other data in that city.
+![Dashboard 4](https://github.com/user-attachments/assets/a374bd6c-40ae-446e-9961-bc2e39710363)
+
 
 The fifth dashboard shows three graphs showing the mood in each city according to years, months and hours of the day. This way you can learn when in the year the state of the wind changes from city to city, as well as which times during the day will be more convenient in this respect. The fourth graph shows the distribution of rain during the months of the year, on average.
+![Dashboard 5 ](https://github.com/user-attachments/assets/865411d1-b55d-4495-b7f1-9e1ed75c885f)
+
 
 
 From this analysis that appears in this workbook, it is possible to learn visually about the weather fluctuations over the years and also in a more focused way at more specific times. I would love to hear about additional questions that you think can be asked and additional investigations that can be investigated.
